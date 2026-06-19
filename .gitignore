@@ -1,0 +1,24 @@
+# Build
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Visual Studio
+.vs/
+x64/
+*.user
+*.vcxproj*
+*.sln
+*.slnx
+
+# Runtime saves (s key)
+region_unification_merge_*.png
+
+# OS
+.DS_Store
+Thumbs.db
